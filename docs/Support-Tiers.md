@@ -4,11 +4,11 @@ last_review_date: "2025-04-12"
 
 # Support Tiers
 
-Homebrew has three support tiers. These tiers set expectations for how well Homebrew will run on a given configuration.
+*Homebrew has three support tiers. These tiers set expectations for how well Homebrew will run on a given configuration.
 
 ## Tier 1
 
-A Tier 1 supported configuration is one in which:
+*A Tier 1 supported configuration is one in which:
 
 - you'll have the best experience using Homebrew
 - we will aim to fix reproducible bugs affecting this configuration
@@ -19,7 +19,7 @@ A Tier 1 supported configuration is one in which:
 
 ### macOS
 
-For Tier 1 support, Homebrew on macOS must be all of:
+*For Tier 1 support, Homebrew on macOS must be all of:
 
 - running on official Apple hardware (e.g. not a "Hackintosh" or VM)
 - running a version of macOS supported by Apple on that hardware
